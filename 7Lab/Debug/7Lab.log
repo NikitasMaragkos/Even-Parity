@@ -1,0 +1,32 @@
+﻿  functions.cpp
+D:\vs codes\7Lab\functions.cpp(11,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(18,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(24,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(31,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(41,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(42,22): warning C4018:  '>': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(49,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(61,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(87,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(91,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(93,21): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(101,20): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(104,21): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(107,22): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\functions.cpp(110,22): warning C4018:  '<': signed/unsigned mismatch
+  main.cpp
+D:\vs codes\7Lab\functions.cpp(123,21): warning C4018:  '<': signed/unsigned mismatch
+D:\vs codes\7Lab\main.cpp(28,21): warning C4101:  'm': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(28,31): warning C4101:  't2': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(12,17): warning C4101:  'k': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(13,8): warning C4101:  'error_rate': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(28,35): warning C4101:  'p': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(28,24): warning C4101:  'f': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(28,27): warning C4101:  't1': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(29,6): warning C4101:  'number_of_none_error': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(30,6): warning C4101:  'total_transmitions': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(29,28): warning C4101:  'number_of_detection_error': unreferenced local variable
+D:\vs codes\7Lab\main.cpp(12,14): warning C4101:  'n': unreferenced local variable
+  Generating Code...
+D:\vs codes\7Lab\main.cpp(29,55): warning C4101:  'number_of_undetected_error': unreferenced local variable
+  7Lab.vcxproj -> D:\vs codes\7Lab\Debug\7Lab.exe
